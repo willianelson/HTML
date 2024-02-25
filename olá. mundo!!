@@ -6,17 +6,17 @@
 <title> OLA,MUNDO</title>
 <style >
 h1 {
-	front-famyli:ariel;
-	font-size: 30pt:
-	color:blue:
-	text-shadow: 2px 2px 2px black;
+	font-family: Arial;
+	font-size: 30pt;
+	color: blue ;
+	text-shadow : 2px 2px 2px black;
 }
                     
 </style>
 
  </head>
  <body>
-      <h1> olá,Mundo!!</h1>
+      <h1>olá,Mundo!!</h1>
       <h2>me livrei da maldição</h2>
     <h1>oba me livrei </h1>
  </body>
